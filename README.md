@@ -1,4 +1,4 @@
-# mapviewer-sample
+# mapviewer community
 
 Minimal example repository with a simple collaboration workflow based on short-lived branches, pull requests, unit tests and controlled deployments.
 
