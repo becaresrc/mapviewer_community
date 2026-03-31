@@ -18,7 +18,7 @@ This repository intentionally avoids GitFlow.
 2. Open a pull request back to `main`.
 3. CI runs unit tests and build validation automatically.
 4. Merge with **Squash and merge** to keep history clean.
-5. Each merge to `main` deploys automatically to **staging**.
+5. Staging deployment is **manual** and protected by GitHub Environment reviewers
 6. Production deployment is **manual** and protected by GitHub Environment reviewers.
 
 ## CI/CD included
